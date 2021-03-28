@@ -7,8 +7,8 @@ Overview
 --------
 
     projecto
-    |- doc/                   # documentacion del estudio
-    |  |- articles/         # related articles, reviews 
+    |- doc/            # documentacion del estudio
+    |  |- articles/    # related articles, reviews 
     |  +- paper/       # manuscript(s), whether generated or not
     |
     |- data            # raw and primary data, are not changed once created 
@@ -23,6 +23,13 @@ Overview
     |- scratch/        # temporary files that can be safely deleted or lost
     |
     |- README          # the top level description of content
+
+
+![Plot01](https://github.com/lkovalevski/textsimilaritiesinR/blob/master/results/figures/word_plots.png)
+
+![Plot03](https://github.com/lkovalevski/textsimilaritiesinR/blob/master/results/figures/dendograma.png)
+
+![Plot03](https://github.com/lkovalevski/textsimilaritiesinR/blob/master/results/figures/n-gramas.png)
 
 
 How to use
