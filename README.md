@@ -25,7 +25,7 @@ Overview
     |- README          # the top level description of content
 
 
-![Plot01](https://github.com/lkovalevski/textsimilaritiesinR/blob/master/results/figures/word_plots.png)
+![Plot01](https://github.com/lkovalevski/textsimilaritiesinR/blob/master/results/figures/word_plot.png)
 
 ![Plot03](https://github.com/lkovalevski/textsimilaritiesinR/blob/master/results/figures/dendograma.png)
 
